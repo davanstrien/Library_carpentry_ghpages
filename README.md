@@ -1,1 +1,1 @@
-# A slighly lonely github pages site. 
+# A slightly lonely github pages site. 
